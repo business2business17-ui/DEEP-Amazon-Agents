@@ -1,0 +1,2307 @@
+{
+  "metadata": {
+    "purpose": "Semantic expansion layer for non-exact detection of restricted claims",
+    "source_url": "https://amazonsellersappeal.com/keywords/",
+    "generated_utc": "2026-06-25T12:31:36.151975Z"
+  },
+  "entries": {
+    "miracle": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "miracle"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "average": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "average"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "FDA": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "FDA"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "drugs,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "drugs,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "FDA approved": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "FDA approved"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "we have been saying it for years,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "we have been saying it for years,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "bad keyword.": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "bad keyword"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Amazon’s application of rules is not always predictable": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Amazon’s application of rules is not always predictable"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "but the automated and human review stack is powerful and getting more interconnected with brand tools and international policy. Sellers who last assume every word can be read literally": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "but the automated and human review stack is powerful and getting more interconnected with brand tools and international policy. Sellers who last assume every word can be read literally"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "screenshotted by a competitor": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "screenshotted by a competitor"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "and fed into an enforcement queue. When a notice quotes Section 3 policy language or cites misleading product detail page alongside restricted products": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "and fed into an enforcement queue. When a notice quotes Section 3 policy language or cites misleading product detail page alongside restricted products"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "inauthentic item": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "inauthentic item"
+      ],
+      "detection_notes": "Authenticity or authorization claims require documentary proof and may trigger invoice or IP verification issues."
+    },
+    "or intellectual property issues": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "or intellectual property issues"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "copy is still often one of the first levers you control while you gather invoices": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "copy is still often one of the first levers you control while you gather invoices"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "letters of authorization": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "letters of authorization"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "or test reports. Lead with cleaning the words. Then line up the paper": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "or test reports. Lead with cleaning the words. Then line up the paper"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "FDA Approved,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "FDA Approved,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "EPA Registered,": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "EPA Registered,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "CE Certified,": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "CE Certified,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "ISO Certified,": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "ISO Certified,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "100% Certified,": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "100% Certified,",
+        "100% Certified, for everyone",
+        "Proven 100% Certified,",
+        "Real 100% Certified,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Government Approved.": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "Government Approved"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Cures,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Cures,",
+        "Cures, naturally",
+        "Helps cure,",
+        "Helps cures,",
+        "Provides relief for,",
+        "Supports recovery from,",
+        "Treats,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Prevents,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Helps prevent,",
+        "Helps prevents,",
+        "Prevents,",
+        "Prevents, naturally",
+        "Protects against,",
+        "Reduces the risk of,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Treats,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Addresses,",
+        "Helps treats,",
+        "Helps with,",
+        "Supports,",
+        "Targets,",
+        "Treats,",
+        "Treats, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Eliminates,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Eliminates,",
+        "Erases,",
+        "Gets rid of,",
+        "Removes,",
+        "Stops,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Stops,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Stops,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Kills [pathogen]": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Helps kills [pathogen]",
+        "Kills [pathogen]",
+        "Kills [pathogen] naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Anti-Cancer,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Anti-Cancer,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Antiviral": {
+      "category": "Medical Claims",
+      "variations": [
+        "Antiviral"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "supports immunity": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "supports immunity"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Antibacterial,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Antibacterial,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Sanitizes,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Sanitizes,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Disinfects,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Disinfects,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Sterilizes,": {
+      "category": "Environmental Claims",
+      "variations": [
+        "Sterilizes,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Pesticide-Free": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Pesticide-Free"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Hospital Grade": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Hospital Grade"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Risk-Free,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Risk-Free,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Guaranteed Results,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Assured Results,",
+        "Certain Results,",
+        "Guaranteed Results,",
+        "Guaranteed Results, for everyone",
+        "Guaranteed to Results,",
+        "Promised Results,",
+        "Proven Guaranteed Results,",
+        "Real Guaranteed Results,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "100% Effective,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "100% Effective,",
+        "100% Effective, for everyone",
+        "Proven 100% Effective,",
+        "Real 100% Effective,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Never Fails,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Never Fails,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Permanent Results,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Permanent Results,",
+        "Permanent Results, for everyone",
+        "Proven Permanent Results,",
+        "Real Permanent Results,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Instant Results.": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Instant Results",
+        "Instant Results for everyone",
+        "Proven Instant Results",
+        "Real Instant Results"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Best in the World,": {
+      "category": "Superlative Claims",
+      "variations": [
+        "Best in the World,",
+        "Best in the World, for everyone",
+        "Proven Best in the World,",
+        "Real Best in the World,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "#1 Doctor Recommended": {
+      "category": "Superlative Claims",
+      "variations": [
+        "#1 Clinician Recommended",
+        "#1 Doctor Approved",
+        "#1 Doctor Recommended",
+        "#1 Doctor Recommended for everyone",
+        "#1 Physician Recommended",
+        "Proven #1 Doctor Recommended",
+        "Real #1 Doctor Recommended"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "No Side Effects,": {
+      "category": "Health Claims",
+      "variations": [
+        "No Side Effects,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Proven to Work,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Proven to Work,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Miracle,": {
+      "category": "Superlative Claims",
+      "variations": [
+        "Miracle,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Secret Formula.": {
+      "category": "Superlative Claims",
+      "variations": [
+        "Secret Formula"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Reduces Anxiety,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Reduces Anxiety,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Treats Depression,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Addresses Depression,",
+        "Helps treats Depression,",
+        "Helps with Depression,",
+        "Supports Depression,",
+        "Targets Depression,",
+        "Treats Depression,",
+        "Treats Depression, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Stops Panic Attacks,": {
+      "category": "Health Claims",
+      "variations": [
+        "Stops Panic Attacks,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Replaces Medication.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Replaces Medication"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Boosts Immunity,": {
+      "category": "Health Claims",
+      "variations": [
+        "Boosts Immunity,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Prevents Flu,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Helps prevent Flu,",
+        "Helps prevents Flu,",
+        "Prevents Flu,",
+        "Prevents Flu, naturally",
+        "Protects against Flu,",
+        "Reduces the risk of Flu,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Fights COVID,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Fights COVID,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Antiviral,": {
+      "category": "Environmental Claims",
+      "variations": [
+        "Antiviral,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Kills Viruses.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Helps kills Viruses",
+        "Kills Viruses",
+        "Kills Viruses naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Lowers Blood Pressure,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Lowers Blood Pressure,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Reverses Diabetes,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Reverses Diabetes,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Cures Obesity,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Cures Obesity,",
+        "Cures Obesity, naturally",
+        "Helps cure Obesity,",
+        "Helps cures Obesity,",
+        "Provides relief for Obesity,",
+        "Supports recovery from Obesity,",
+        "Treats Obesity,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Eliminates Cholesterol.": {
+      "category": "Health Claims",
+      "variations": [
+        "Eliminates Cholesterol",
+        "Erases Cholesterol",
+        "Gets rid of Cholesterol",
+        "Removes Cholesterol",
+        "Stops Cholesterol"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Eliminates Migraines,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Eliminates Migraines,",
+        "Erases Migraines,",
+        "Gets rid of Migraines,",
+        "Removes Migraines,",
+        "Stops Migraines,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Stops Chronic Pain,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Stops Chronic Pain,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Works Like Opioids.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Works Like Opioids"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "FDA Approved": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "FDA Approved"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Clinically Proven": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "Clinically Proven"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Doctor Recommended,": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "Clinician Recommended,",
+        "Doctor Approved,",
+        "Doctor Recommended,",
+        "Physician Recommended,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Stronger Than Prescriptions,": {
+      "category": "Health Claims",
+      "variations": [
+        "Stronger Than Prescriptions,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Works Instantly,": {
+      "category": "Health Claims",
+      "variations": [
+        "Immediate effect,",
+        "Instant results,",
+        "Proven Works Instantly,",
+        "Real Works Instantly,",
+        "Works Instantly,",
+        "Works Instantly, for everyone",
+        "Works fast,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "100% Safe,": {
+      "category": "Safety Claims",
+      "variations": [
+        "100% Safe,",
+        "100% Safe, for everyone",
+        "Proven 100% Safe,",
+        "Real 100% Safe,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "No Risk,": {
+      "category": "Health Claims",
+      "variations": [
+        "No Risk,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Guaranteed Results.": {
+      "category": "Health Claims",
+      "variations": [
+        "Assured Results",
+        "Certain Results",
+        "Guaranteed Results",
+        "Guaranteed Results for everyone",
+        "Guaranteed to Results",
+        "Promised Results",
+        "Proven Guaranteed Results",
+        "Real Guaranteed Results"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Kills 99.9% of Germs,": {
+      "category": "Environmental Claims",
+      "variations": [
+        "Helps kills 99.9% of Germs,",
+        "Kills 99.9% of Germs,",
+        "Kills 99.9% of Germs, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Disinfectant,": {
+      "category": "Environmental Claims",
+      "variations": [
+        "Disinfectant,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Sanitizer,": {
+      "category": "Environmental Claims",
+      "variations": [
+        "Sanitizer,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Prevents Viruses,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Helps prevent Viruses,",
+        "Helps prevents Viruses,",
+        "Prevents Viruses,",
+        "Prevents Viruses, naturally",
+        "Protects against Viruses,",
+        "Reduces the risk of Viruses,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Eliminates Mold,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Eliminates Mold,",
+        "Erases Mold,",
+        "Gets rid of Mold,",
+        "Removes Mold,",
+        "Stops Mold,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Kills COVID.": {
+      "category": "Environmental Claims",
+      "variations": [
+        "Helps kills COVID",
+        "Kills COVID",
+        "Kills COVID naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Non-Toxic,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Free from toxins,",
+        "Non-Toxic,",
+        "Nontoxic,",
+        "Toxin-free,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Chemical-Free,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Chemical free,",
+        "Chemical-Free,",
+        "No chemicals,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Safe for Babies,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Safe for Babies,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Safe to Ingest,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Safe to Ingest,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Food-Grade Cleaner": {
+      "category": "Performance Claims",
+      "variations": [
+        "Food-Grade Cleaner"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Cures Skin Irritations,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Cures Skin Irritations,",
+        "Cures Skin Irritations, naturally",
+        "Helps cure Skin Irritations,",
+        "Helps cures Skin Irritations,",
+        "Provides relief for Skin Irritations,",
+        "Supports recovery from Skin Irritations,",
+        "Treats Skin Irritations,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Treats Eczema,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Addresses Eczema,",
+        "Helps treats Eczema,",
+        "Helps with Eczema,",
+        "Supports Eczema,",
+        "Targets Eczema,",
+        "Treats Eczema,",
+        "Treats Eczema, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Heals Wounds.": {
+      "category": "Performance Claims",
+      "variations": [
+        "Heals Wounds",
+        "Heals Wounds naturally",
+        "Helps heals Wounds"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Completely Removes Stains,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Completely Removes Stains,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Stops Odors Forever,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Stops Odors Forever,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Never Needs Scrubbing Again.": {
+      "category": "Performance Claims",
+      "variations": [
+        "Never Needs Scrubbing Again"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Boosts Metabolism,": {
+      "category": "Health Claims",
+      "variations": [
+        "Boosts Metabolism,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Burns Fat,": {
+      "category": "Health Claims",
+      "variations": [
+        "Burns Fat,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Melts Belly Fat,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Melts Belly Fat,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Appetite Suppressant,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Appetite Suppressant,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Fat-Burning,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Fat-Burning,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Replaces Gastric Surgery.": {
+      "category": "Performance Claims",
+      "variations": [
+        "Replaces Gastric Surgery"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Reduces Cholesterol,": {
+      "category": "Health Claims",
+      "variations": [
+        "Reduces Cholesterol,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Reverses Heart Disease,": {
+      "category": "Health Claims",
+      "variations": [
+        "Reverses Heart Disease,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Cures IBS,": {
+      "category": "Health Claims",
+      "variations": [
+        "Cures IBS,",
+        "Cures IBS, naturally",
+        "Helps cure IBS,",
+        "Helps cures IBS,",
+        "Provides relief for IBS,",
+        "Supports recovery from IBS,",
+        "Treats IBS,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Heals Leaky Gut.": {
+      "category": "Health Claims",
+      "variations": [
+        "Heals Leaky Gut",
+        "Heals Leaky Gut naturally",
+        "Helps heals Leaky Gut"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Keto Approved,": {
+      "category": "Certification Claims",
+      "variations": [
+        "Keto Approved,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Paleo Cure,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Helps paleo Cure,",
+        "Paleo Cure,",
+        "Paleo Cure, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Diabetic Safe": {
+      "category": "Health Claims",
+      "variations": [
+        "Diabetic Safe"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "100% Organic,": {
+      "category": "Certification Claims",
+      "variations": [
+        "100% Organic,",
+        "100% Organic, for everyone",
+        "Proven 100% Organic,",
+        "Real 100% Organic,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "All Natural,": {
+      "category": "Performance Claims",
+      "variations": [
+        "All Natural,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Raw,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Raw,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Superfood Cure,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Helps superfood Cure,",
+        "Superfood Cure,",
+        "Superfood Cure, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Certified Gluten-Free": {
+      "category": "Certification Claims",
+      "variations": [
+        "Certified Gluten-Free"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Guaranteed to Work,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Assured to Work,",
+        "Certain to Work,",
+        "Guaranteed to Work,",
+        "Guaranteed to Work, for everyone",
+        "Guaranteed to to Work,",
+        "Promised to Work,",
+        "Proven Guaranteed to Work,",
+        "Real Guaranteed to Work,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Lose 10 lbs,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Lose 10 lbs,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Clinical Weight Loss,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Clinical Weight Loss,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Best Taste Ever.": {
+      "category": "Performance Claims",
+      "variations": [
+        "Best Taste Ever",
+        "Best Taste Ever for everyone",
+        "Proven Best Taste Ever",
+        "Real Best Taste Ever"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Childproof,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Childproof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Baby-Safe,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Baby-Safe,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "BPA-Free,": {
+      "category": "Restricted Product Claims",
+      "variations": [
+        "BPA-Free,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Phthalate-Free": {
+      "category": "Restricted Product Claims",
+      "variations": [
+        "Phthalate-Free"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Improves IQ,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Improves IQ,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Enhances Brain Development,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Enhances Brain Development,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Teaches Faster,": {
+      "category": "Restricted Product Claims",
+      "variations": [
+        "Teaches Faster,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Guaranteed Learning,": {
+      "category": "Restricted Product Claims",
+      "variations": [
+        "Assured Learning,",
+        "Certain Learning,",
+        "Guaranteed Learning,",
+        "Guaranteed Learning, for everyone",
+        "Guaranteed to Learning,",
+        "Promised Learning,",
+        "Proven Guaranteed Learning,",
+        "Real Guaranteed Learning,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Speech Therapy Replacement.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Speech Therapy Replacement"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Prevents Rashes,": {
+      "category": "Restricted Product Claims",
+      "variations": [
+        "Helps prevent Rashes,",
+        "Helps prevents Rashes,",
+        "Prevents Rashes,",
+        "Prevents Rashes, naturally",
+        "Protects against Rashes,",
+        "Reduces the risk of Rashes,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Protects from Germs,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Protects from Germs,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Eliminates Bacteria,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Eliminates Bacteria,",
+        "Erases Bacteria,",
+        "Gets rid of Bacteria,",
+        "Removes Bacteria,",
+        "Stops Bacteria,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Antimicrobial": {
+      "category": "Medical Claims",
+      "variations": [
+        "Antimicrobial"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Works with Apple,": {
+      "category": "Trademark Issues",
+      "variations": [
+        "Works with Apple,"
+      ],
+      "detection_notes": "Compatibility or endorsement language may imply trademark affiliation or authorization that is not permitted."
+    },
+    "Designed for iPhone": {
+      "category": "Trademark Issues",
+      "variations": [
+        "Designed for iPhone"
+      ],
+      "detection_notes": "Compatibility or endorsement language may imply trademark affiliation or authorization that is not permitted."
+    },
+    "Samsung Certified,": {
+      "category": "Trademark Issues",
+      "variations": [
+        "Samsung Certified,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Official Partner,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Official Partner,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "AirPods Alternative,": {
+      "category": "Trademark Issues",
+      "variations": [
+        "AirPods Alternative,"
+      ],
+      "detection_notes": "Compatibility or endorsement language may imply trademark affiliation or authorization that is not permitted."
+    },
+    "Beats-Style,": {
+      "category": "Trademark Issues",
+      "variations": [
+        "Beats-Style,"
+      ],
+      "detection_notes": "Compatibility or endorsement language may imply trademark affiliation or authorization that is not permitted."
+    },
+    "Same Factory as [Brand].": {
+      "category": "Trademark Issues",
+      "variations": [
+        "Same Factory as [Brand]"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Fastest on the Market,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Fastest on the Market,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Longest Battery Life,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Longest Battery Life,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Zero Lag,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Zero Lag,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Military Grade": {
+      "category": "Performance Claims",
+      "variations": [
+        "Military Grade"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Waterproof,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Fully waterproof,",
+        "Water resistant,",
+        "Waterproof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Shockproof,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Shockproof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Dustproof,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Dustproof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Overheat-Proof": {
+      "category": "Performance Claims",
+      "variations": [
+        "Overheat-Proof"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Speeds Up Recovery,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Speeds Up Recovery,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Eliminates Pain,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Eliminates Pain,",
+        "Erases Pain,",
+        "Gets rid of Pain,",
+        "Removes Pain,",
+        "Stops Pain,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Heals Injuries,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Heals Injuries,",
+        "Heals Injuries, naturally",
+        "Helps heals Injuries,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Repairs Torn Muscles,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Repairs Torn Muscles,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Treats Plantar Fasciitis,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Addresses Plantar Fasciitis,",
+        "Helps treats Plantar Fasciitis,",
+        "Helps with Plantar Fasciitis,",
+        "Supports Plantar Fasciitis,",
+        "Targets Plantar Fasciitis,",
+        "Treats Plantar Fasciitis,",
+        "Treats Plantar Fasciitis, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Cures Shin Splints.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Cures Shin Splints",
+        "Cures Shin Splints naturally",
+        "Helps cure Shin Splints",
+        "Helps cures Shin Splints",
+        "Provides relief for Shin Splints",
+        "Supports recovery from Shin Splints",
+        "Treats Shin Splints"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Increases Strength by 50%,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Increases Strength by 50%,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Lose 20 lbs in 30 Days,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Lose 20 lbs in 30 Days,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Guaranteed Six-Pack,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Assured Six-Pack,",
+        "Certain Six-Pack,",
+        "Guaranteed Six-Pack,",
+        "Guaranteed Six-Pack, for everyone",
+        "Guaranteed to Six-Pack,",
+        "Promised Six-Pack,",
+        "Proven Guaranteed Six-Pack,",
+        "Real Guaranteed Six-Pack,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Fixes Posture Permanently.": {
+      "category": "Performance Claims",
+      "variations": [
+        "Fixes Posture Permanently",
+        "Fixes Posture Permanently for everyone",
+        "Proven Fixes Posture Permanently",
+        "Real Fixes Posture Permanently"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Antimicrobial,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Antimicrobial,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Antifungal,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Antifungal,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Kills MRSA": {
+      "category": "Performance Claims",
+      "variations": [
+        "Helps kills MRSA",
+        "Kills MRSA",
+        "Kills MRSA naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Eliminates Wrinkles,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Eliminates Wrinkles,",
+        "Erases Wrinkles,",
+        "Gets rid of Wrinkles,",
+        "Removes Wrinkles,",
+        "Stops Wrinkles,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Botox in a Bottle,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Botox in a Bottle,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Reverses Aging,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Reverses Aging,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Permanent Filler.": {
+      "category": "Safety Claims",
+      "variations": [
+        "Permanent Filler",
+        "Permanent Filler for everyone",
+        "Proven Permanent Filler",
+        "Real Permanent Filler"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Removes Melasma,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Removes Melasma,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Treats Hyperpigmentation,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Addresses Hyperpigmentation,",
+        "Helps treats Hyperpigmentation,",
+        "Helps with Hyperpigmentation,",
+        "Supports Hyperpigmentation,",
+        "Targets Hyperpigmentation,",
+        "Treats Hyperpigmentation,",
+        "Treats Hyperpigmentation, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Cures Acne,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Cures Acne,",
+        "Cures Acne, naturally",
+        "Helps cure Acne,",
+        "Helps cures Acne,",
+        "Provides relief for Acne,",
+        "Supports recovery from Acne,",
+        "Treats Acne,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Psoriasis Relief.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Helps psoriasis Relief",
+        "Psoriasis Relief",
+        "Psoriasis Relief naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Clinically Proven Results,": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "Clinically Proven Results,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "FDA Approved Formula": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "FDA Approved Formula"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Dermatologist Prescribed.": {
+      "category": "Regulatory Claims",
+      "variations": [
+        "Dermatologist Prescribed"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "100% Non-Toxic,": {
+      "category": "Safety Claims",
+      "variations": [
+        "100% Free from toxins,",
+        "100% Non-Toxic,",
+        "100% Non-Toxic, for everyone",
+        "100% Nontoxic,",
+        "100% Toxin-free,",
+        "Proven 100% Non-Toxic,",
+        "Real 100% Non-Toxic,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Safe for All Skin Types,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Safe for All Skin Types,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Never Causes Irritation.": {
+      "category": "Safety Claims",
+      "variations": [
+        "Never Causes Irritation"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Cures Fleas,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Cures Fleas,",
+        "Cures Fleas, naturally",
+        "Helps cure Fleas,",
+        "Helps cures Fleas,",
+        "Provides relief for Fleas,",
+        "Supports recovery from Fleas,",
+        "Treats Fleas,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Eliminates Ticks Overnight,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Eliminates Ticks Overnight,",
+        "Erases Ticks Overnight,",
+        "Gets rid of Ticks Overnight,",
+        "Removes Ticks Overnight,",
+        "Stops Ticks Overnight,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Heartworm Cure,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Heartworm Cure,",
+        "Heartworm Cure, naturally",
+        "Helps heartworm Cure,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Deworms Naturally.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Deworms Naturally"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Heals Hot Spots,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Heals Hot Spots,",
+        "Heals Hot Spots, naturally",
+        "Helps heals Hot Spots,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Treats Mange,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Addresses Mange,",
+        "Helps treats Mange,",
+        "Helps with Mange,",
+        "Supports Mange,",
+        "Targets Mange,",
+        "Treats Mange,",
+        "Treats Mange, naturally"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Stops Infections.": {
+      "category": "Medical Claims",
+      "variations": [
+        "Stops Infections"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Vet Recommended,": {
+      "category": "Certification Claims",
+      "variations": [
+        "Vet Approved,",
+        "Vet Recommended,",
+        "Veterinarian Recommended,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Non-Toxic for Pets,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Free from toxins for Pets,",
+        "Non-Toxic for Pets,",
+        "Nontoxic for Pets,",
+        "Toxin-free for Pets,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Safe for All Breeds,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Safe for All Breeds,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Guaranteed No Side Effects.": {
+      "category": "Safety Claims",
+      "variations": [
+        "Assured No Side Effects",
+        "Certain No Side Effects",
+        "Guaranteed No Side Effects",
+        "Guaranteed No Side Effects for everyone",
+        "Guaranteed to No Side Effects",
+        "Promised No Side Effects",
+        "Proven Guaranteed No Side Effects",
+        "Real Guaranteed No Side Effects"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Stops Barking Instantly,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Proven Stops Barking Instantly,",
+        "Real Stops Barking Instantly,",
+        "Stops Barking Instantly,",
+        "Stops Barking Instantly, for everyone"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Cures Separation Anxiety,": {
+      "category": "Medical Claims",
+      "variations": [
+        "Cures Separation Anxiety,",
+        "Cures Separation Anxiety, naturally",
+        "Helps cure Separation Anxiety,",
+        "Helps cures Separation Anxiety,",
+        "Provides relief for Separation Anxiety,",
+        "Supports recovery from Separation Anxiety,",
+        "Treats Separation Anxiety,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Replacement for Training.": {
+      "category": "Safety Claims",
+      "variations": [
+        "Replacement for Training"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Childproof Design,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Childproof Design,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Fireproof Material,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Fireproof Material,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Earthquake Proof,": {
+      "category": "Safety Claims",
+      "variations": [
+        "Earthquake Proof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Unbreakable.": {
+      "category": "Safety Claims",
+      "variations": [
+        "Unbreakable"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "100% Stain Resistant,": {
+      "category": "Performance Claims",
+      "variations": [
+        "100% Stain Resistant,",
+        "100% Stain Resistant, for everyone",
+        "Proven 100% Stain Resistant,",
+        "Real 100% Stain Resistant,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Never Scratches,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Never Scratches,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Mold-Proof,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Mold-Proof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Bedbug Proof,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Bedbug Proof,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Soundproof Guarantee.": {
+      "category": "Performance Claims",
+      "variations": [
+        "Proven Soundproof Guarantee",
+        "Real Soundproof Guarantee",
+        "Soundproof Guarantee",
+        "Soundproof Guarantee for everyone"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Guaranteed to Last a Lifetime,": {
+      "category": "Performance Claims",
+      "variations": [
+        "Assured to Last a Lifetime,",
+        "Certain to Last a Lifetime,",
+        "Guaranteed to Last a Lifetime,",
+        "Guaranteed to Last a Lifetime, for everyone",
+        "Guaranteed to to Last a Lifetime,",
+        "Promised to Last a Lifetime,",
+        "Proven Guaranteed to Last a Lifetime,",
+        "Real Guaranteed to Last a Lifetime,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "No Assembly Required": {
+      "category": "Performance Claims",
+      "variations": [
+        "No Assembly Required"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Installs in 60 Seconds": {
+      "category": "Performance Claims",
+      "variations": [
+        "Installs in 60 Seconds"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Perfect Gift,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Perfect Gift,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Guaranteed to Impress,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Assured to Impress,",
+        "Certain to Impress,",
+        "Guaranteed to Impress,",
+        "Guaranteed to Impress, for everyone",
+        "Guaranteed to to Impress,",
+        "Promised to Impress,",
+        "Proven Guaranteed to Impress,",
+        "Real Guaranteed to Impress,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Will Make Them Cry,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Will Make Them Cry,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Unforgettable Experience,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Unforgettable Experience,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Holiday Must-Have,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Holiday Must-Have,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Best Surprise Ever,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Best Surprise Ever,",
+        "Best Surprise Ever, for everyone",
+        "Proven Best Surprise Ever,",
+        "Real Best Surprise Ever,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Loved by Everyone,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Loved by Everyone,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Only Gift You Need,": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Only Gift You Need,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Solves Every Problem.": {
+      "category": "Guarantee Claims",
+      "variations": [
+        "Solves Every Problem"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "#1 on Amazon,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "#1 on Amazon,",
+        "#1 on Amazon, for everyone",
+        "Proven #1 on Amazon,",
+        "Real #1 on Amazon,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Amazon’s Choice Seller,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Amazon’s Choice Seller,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Amazon’s Favorite,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Amazon’s Favorite,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Featured by Amazon Staff": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Featured by Amazon Staff"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Prime Exclusive Deal Language": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Prime Exclusive Deal Language"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Best Seller": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Best Seller",
+        "Best Seller for everyone",
+        "Proven Best Seller",
+        "Real Best Seller"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "award winner": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "award winner"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Works Better Than [Brand],": {
+      "category": "Comparative Claims",
+      "variations": [
+        "Works Better Than [Brand],"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Destroys [Competitor],": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Destroys [Competitor],"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Don’t Buy [Brand].": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Don’t Buy [Brand]"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Fastest Shipping,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Fastest Shipping,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Guaranteed Delivery Tomorrow,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Assured Delivery Tomorrow,",
+        "Certain Delivery Tomorrow,",
+        "Guaranteed Delivery Tomorrow,",
+        "Guaranteed Delivery Tomorrow, for everyone",
+        "Guaranteed to Delivery Tomorrow,",
+        "Promised Delivery Tomorrow,",
+        "Proven Guaranteed Delivery Tomorrow,",
+        "Real Guaranteed Delivery Tomorrow,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Instant Fix,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Instant Fix,",
+        "Instant Fix, for everyone",
+        "Proven Instant Fix,",
+        "Real Instant Fix,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Magic Solution,": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Magic Solution,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Secret Algorithm Trick.": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "Secret Algorithm Trick"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "repeating the same keywords dozens of times in bullets or backend": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "repeating the same keywords dozens of times in bullets or backend"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "invisible text tactics": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "invisible text tactics"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "competitor brand names in hidden fields": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "competitor brand names in hidden fields"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "what you deleted": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "what you deleted"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "where it lived": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "where it lived"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "who approved the new copy": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "who approved the new copy"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "and what you will monitor. A plan of action ( POA ) or appeal letter that ignores that label reads like recycled generic text": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "and what you will monitor. A plan of action ( POA ) or appeal letter that ignores that label reads like recycled generic text"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "not a fix": {
+      "category": "Amazon Restricted Language",
+      "variations": [
+        "not a fix"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "competitor brand names": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "competitor brand names"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "model numbers that imply compatibility with a protected line": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "model numbers that imply compatibility with a protected line"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "celebrity names": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "celebrity names"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Pesticide,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Pesticide,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Sterilizing,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Sterilizing,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Prescription Strength.": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Prescription Strength"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Depression,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Depression,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Diabetes,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Diabetes,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Cancer,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Cancer,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Anxiety,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Anxiety,"
+      ],
+      "detection_notes": "Implied or explicit disease / medical treatment claim that Amazon may classify as drug, device, or unsubstantiated health language."
+    },
+    "Infertility": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Infertility"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "canser,": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "canser,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "v1agra": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "v1agra"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Keep backend terms relevant to honest shopper queries": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Keep backend terms relevant to honest shopper queries"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "readable": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "readable"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "and free of claims you would not put in the bullet above the fold. When you refresh front-end copy": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "and free of claims you would not put in the bullet above the fold. When you refresh front-end copy"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "diff the backend in the same ticket": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "diff the backend in the same ticket"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Your root cause should name the backend strings you removed or rewrote": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "Your root cause should name the backend strings you removed or rewrote"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "not only the title and bullets. Export a before/after if you can. Pair that with invoices or compliance docs when the account suspension notice or performance message asks for proof. A strong Amazon reinstatement letter maps Amazon’s wording to your edits; it does not argue with the boilerplate": {
+      "category": "Backend Search Terms",
+      "variations": [
+        "not only the title and bullets. Export a before/after if you can. Pair that with invoices or compliance docs when the account suspension notice or performance message asks for proof. A strong Amazon reinstatement letter maps Amazon’s wording to your edits; it does not argue with the boilerplate"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Leave us a 5-star review,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Leave us a 5-star review,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Show this email to get a gift,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Show this email to get a gift,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "We only survive on perfect reviews.": {
+      "category": "Review Manipulation",
+      "variations": [
+        "We only survive on perfect reviews"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "If you love us, review; if not, email us first": {
+      "category": "Review Manipulation",
+      "variations": [
+        "If you love us, review; if not, email us first"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Our kids will go hungry,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Our kids will go hungry,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Amazon will shut us down,": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Amazon will shut us down,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Big brands are trying to destroy us.": {
+      "category": "Review Manipulation",
+      "variations": [
+        "Big brands are trying to destroy us"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "any free product": {
+      "category": "Review Manipulation",
+      "variations": [
+        "any free product"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "refund": {
+      "category": "Review Manipulation",
+      "variations": [
+        "refund"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "gift card": {
+      "category": "Review Manipulation",
+      "variations": [
+        "gift card"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "or off-platform perk tied to a review or to removing/changing feedback": {
+      "category": "Review Manipulation",
+      "variations": [
+        "or off-platform perk tied to a review or to removing/changing feedback"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "language that points buyers to a Facebook group": {
+      "category": "Review Manipulation",
+      "variations": [
+        "language that points buyers to a Facebook group"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "WhatsApp": {
+      "category": "Review Manipulation",
+      "variations": [
+        "WhatsApp"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "or external site to coordinate reviews": {
+      "category": "Review Manipulation",
+      "variations": [
+        "or external site to coordinate reviews"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "We’d love your feedback. If you have questions about your order, our team is here to help. You can leave a review on Amazon if you’d like to share your experience.": {
+      "category": "Review Manipulation",
+      "variations": [
+        "We’d love your feedback. If you have questions about your order, our team is here to help. You can leave a review on Amazon if you’d like to share your experience"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "100% Authentic,": {
+      "category": "Intellectual Property Issues",
+      "variations": [
+        "100% Authentic,",
+        "100% Authentic, for everyone",
+        "Proven 100% Authentic,",
+        "Real 100% Authentic,"
+      ],
+      "detection_notes": "Absolute, superlative, or guaranteed outcome language may be considered misleading or unsubstantiated."
+    },
+    "Genuine OEM,": {
+      "category": "Intellectual Property Issues",
+      "variations": [
+        "Genuine OEM,"
+      ],
+      "detection_notes": "Authenticity or authorization claims require documentary proof and may trigger invoice or IP verification issues."
+    },
+    "Officially Certified,": {
+      "category": "Certification Claims",
+      "variations": [
+        "Officially Certified,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Direct from Manufacturer,": {
+      "category": "Certification Claims",
+      "variations": [
+        "Direct from Manufacturer,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Authorized Reseller,": {
+      "category": "Intellectual Property Issues",
+      "variations": [
+        "Authorized Reseller,"
+      ],
+      "detection_notes": "Authenticity or authorization claims require documentary proof and may trigger invoice or IP verification issues."
+    },
+    "Exclusive Distribution Agreement,": {
+      "category": "Certification Claims",
+      "variations": [
+        "Exclusive Distribution Agreement,"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Factory New Sealed.": {
+      "category": "Intellectual Property Issues",
+      "variations": [
+        "Factory New Sealed"
+      ],
+      "detection_notes": "Authenticity or authorization claims require documentary proof and may trigger invoice or IP verification issues."
+    },
+    "Expect questions about quantity": {
+      "category": "Certification Claims",
+      "variations": [
+        "Expect questions about quantity"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "date range": {
+      "category": "Certification Claims",
+      "variations": [
+        "date range"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "supplier identity": {
+      "category": "Certification Claims",
+      "variations": [
+        "supplier identity"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "and alignment with the ASIN under review. Blurred PDFs": {
+      "category": "Certification Claims",
+      "variations": [
+        "and alignment with the ASIN under review. Blurred PDFs"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "mismatched SKUs": {
+      "category": "Certification Claims",
+      "variations": [
+        "mismatched SKUs"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "and invoices that do not show a path from manufacturer to you are common failure modes. Fix the listing claims and line up the documents in parallel; one without the other burns time": {
+      "category": "Certification Claims",
+      "variations": [
+        "and invoices that do not show a path from manufacturer to you are common failure modes. Fix the listing claims and line up the documents in parallel; one without the other burns time"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Buy your next refill on our site for half price,": {
+      "category": "Packaging Claims",
+      "variations": [
+        "Buy your next refill on our site for half price,"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "Amazon charges too much, email us.": {
+      "category": "Packaging Claims",
+      "variations": [
+        "Amazon charges too much, email us"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Register here or your warranty is void": {
+      "category": "Packaging Claims",
+      "variations": [
+        "Register here or your warranty is void"
+      ],
+      "detection_notes": "Claim pattern identified by source as high-risk, potentially misleading, or likely to trigger Amazon listing enforcement."
+    },
+    "Follow us on Instagram for a free gift,": {
+      "category": "Packaging Claims",
+      "variations": [
+        "Follow us on Instagram for a free gift,"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Join our VIP list for cashback.": {
+      "category": "Packaging Claims",
+      "variations": [
+        "Join our VIP list for cashback"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    },
+    "Email us for a free replacement, do not use Amazon returns": {
+      "category": "Packaging Claims",
+      "variations": [
+        "Email us for a free replacement, do not use Amazon returns"
+      ],
+      "detection_notes": "Regulatory or certification shorthand may be misleading unless fully documented and presented exactly as allowed."
+    },
+    "deep links to discount checkout pages that look like attempts to move repeat purchases off Amazon without following the proper programs": {
+      "category": "Packaging Claims",
+      "variations": [
+        "deep links to discount checkout pages that look like attempts to move repeat purchases off Amazon without following the proper programs"
+      ],
+      "detection_notes": "Manipulative marketplace, endorsement, or review language may violate Amazon communication and integrity policies."
+    }
+  },
+  "semantic_detection_rules": {
+    "medical_claim_patterns": [
+      "treats [condition]",
+      "helps cure [condition]",
+      "provides relief for [condition]",
+      "supports recovery from [condition]"
+    ],
+    "guarantee_patterns": [
+      "guaranteed to [outcome]",
+      "instant [outcome]",
+      "permanent [outcome]",
+      "100% [result]"
+    ],
+    "authority_patterns": [
+      "doctor recommended",
+      "clinically proven",
+      "FDA approved",
+      "vet recommended",
+      "government approved"
+    ],
+    "comparative_patterns": [
+      "better than [brand]",
+      "#1 on Amazon",
+      "best in the world",
+      "featured by Amazon"
+    ],
+    "review_manipulation_patterns": [
+      "leave a 5-star review",
+      "review for a gift",
+      "refund for review change",
+      "contact us before leaving negative feedback"
+    ]
+  }
+}

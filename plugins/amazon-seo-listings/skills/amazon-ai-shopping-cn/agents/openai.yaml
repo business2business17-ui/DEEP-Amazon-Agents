@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ranskill · Amazon Alexa Shopping"
+  short_description: "Alexa（Rufus）采集、Listing诊断与COSMO报告。"
+  default_prompt: "请使用 $amazon-ai-shopping-cn 完成 Alexa for Shopping（Rufus）采集、问题去重、提问回答、内容分析和 Listing 诊断优化；只有我明确要求时才生成指定 ASIN COSMO 报告。"

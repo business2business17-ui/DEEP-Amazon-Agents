@@ -1,0 +1,27 @@
+{
+  "name": "amazon-ai-shopping-cn-skill",
+  "version": "0.2.30",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "cdp:check": "node ./scripts/rufus_cdp_preflight.mjs",
+    "cdp:launch": "node ./scripts/rufus_cdp_preflight.mjs --launch-dedicated-profile",
+    "collect": "node ./scripts/rufus_collect_pipeline_cn.mjs",
+    "asin:questions": "node ./scripts/rufus_collect_specific_asin_questions.mjs",
+    "questions:dedupe": "node ./scripts/rufus_dedupe_natural_questions.mjs",
+    "answers:collect": "node ./scripts/rufus_collect_natural_question_answers.mjs",
+    "relation:questions": "node ./scripts/rufus_build_relation_probe_questions.mjs",
+    "asin:relation-report": "node ./scripts/asin_relation_probe_report.mjs",
+    "relation:visualize": "node ./scripts/relation_probe_visual_report.mjs",
+    "relation:validate": "node ./scripts/validate_relation_probe_run.mjs",
+    "delivery:finalize": "node ./scripts/finalize_customer_delivery.mjs",
+    "check": "node --check ./scripts/launch_chrome_rufus_profile.mjs && node --check ./scripts/rufus_collect_pipeline_cn.mjs && node --check ./scripts/rufus_collect_specific_asin_questions.mjs && node --check ./scripts/rufus_dedupe_natural_questions.mjs && node --check ./scripts/rufus_collect_natural_question_answers.mjs && node --check ./scripts/rufus_research.mjs && node --check ./scripts/rufus_build_relation_probe_questions.mjs && node --check ./scripts/asin_relation_probe_report.mjs && node --check ./scripts/relation_probe_visual_report.mjs && node --check ./scripts/validate_relation_probe_run.mjs && node --check ./scripts/validate_listing_audit_outputs.mjs && node --check ./scripts/finalize_customer_delivery.mjs && node --check ./scripts/csv_zh.mjs",
+    "listing:validate": "node ./scripts/validate_listing_audit_outputs.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "playwright": "^1.61.0"
+  }
+}

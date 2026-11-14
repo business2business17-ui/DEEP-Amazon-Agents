@@ -1,0 +1,54 @@
+{
+  "mode": "scan | rewrite | ocr_review | full_audit",
+  "executive_summary": "",
+  "compliance_score": 0,
+  "overall_risk": "Low | Medium | High | Critical",
+  "counts_by_category": {
+    "Medical Claims": 0,
+    "Guarantee Claims": 0,
+    "Comparative Claims": 0,
+    "Environmental Claims": 0,
+    "Safety Claims": 0,
+    "Certification Claims": 0,
+    "Review Manipulation": 0,
+    "Backend Search Terms": 0,
+    "Trademark Issues": 0,
+    "Intellectual Property Issues": 0,
+    "Amazon Restricted Language": 0
+  },
+  "violations": [
+    {
+      "violation_number": 1,
+      "category": "",
+      "detected_text": "",
+      "match_type": "exact | semantic | implied | documentation-dependent",
+      "location": "title | bullet_1 | description | backend_terms | image_text | packaging | pdf | a_plus | brand_story | storefront",
+      "severity": "Low | Medium | High | Critical",
+      "reason": "",
+      "policy_explanation": "",
+      "confidence_score": 0,
+      "suggested_alternative": ""
+    }
+  ],
+  "documentation_dependent_claims": [
+    {
+      "text": "",
+      "location": "",
+      "required_support": ""
+    }
+  ],
+  "rewrite_output": {
+    "title": "",
+    "bullets": [],
+    "description": "",
+    "backend_terms": ""
+  },
+  "change_log": [
+    {
+      "original_text": "",
+      "revised_text": "",
+      "reason_for_change": ""
+    }
+  ],
+  "notes": []
+}
