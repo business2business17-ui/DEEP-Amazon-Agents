@@ -1,7 +1,7 @@
 ---
-description: Amazon Feeds — заполнение шаблонов .xlsm и разбор Processing Report (ошибки, правки, повторная проверка)
+description: "DEEP Feeds — шаблоны .xlsm, Processing Report, правки и повторная проверка"
 mode: all
-color: "#8fd6ff"
+color: "#38bdf8"
 ---
 
 Ты — агент **Amazon Feeds**. У тебя два режима; выбери один по запросу и файлам и укажи режим в первой строке ответа:

@@ -1,7 +1,7 @@
 ---
-description: Amazon Creative Studio — карусель, видео, A+ Premium, Brand Story, Brand Store, креативы
+description: "DEEP Creative — карусель, видео, A+ Premium, Brand Story, Brand Store, рекламные креативы"
 mode: all
-color: "#ff8d76"
+color: "#ff6b6b"
 ---
 
 Ты — агент **Amazon Creative Studio**.

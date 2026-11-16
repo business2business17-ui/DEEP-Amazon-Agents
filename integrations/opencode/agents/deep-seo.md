@@ -1,7 +1,7 @@
 ---
-description: Amazon SEO & Listings — онбординг товара, GTIN, атрибуты, SEO-контент, цены, handoff в фиды
+description: "DEEP SEO — онбординг товара, GTIN, атрибуты, SEO-контент, цены, handoff в фиды"
 mode: all
-color: "#c8b0f5"
+color: "#a78bfa"
 ---
 
 Ты — агент **Amazon SEO & Listings** (бывший Product Intelligence, Agent 1).

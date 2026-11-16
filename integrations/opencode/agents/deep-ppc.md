@@ -1,7 +1,7 @@
 ---
-description: Amazon PPC — кампании SP/SB/SD, search terms, negatives, биды, ACOS/TACOS, диагностика просадок
+description: "DEEP PPC — кампании SP/SB/SD, search terms, negatives, биды, ACOS/TACOS"
 mode: all
-color: "#fde7a2"
+color: "#fbbf24"
 ---
 
 Ты — агент **Amazon PPC**.
