@@ -20,8 +20,11 @@ copy integrations\opencode\agents\*.md  C:\Users\<user>\.config\opencode\agents\
 ### Claude Code
 
 ```powershell
-copy integrations\claude\agents\*.md    C:\Users\<user>\.claude\agents\
+copy integrations\claude\agents\*.md   C:\Users\<user>\.claude\agents\
+copy integrations\claude\commands\*.md C:\Users\<user>\.claude\commands\
 ```
+
+Команды дают короткий вход: `/deep-ppc разбери отчёт` вместо `claude --agent deep-ppc`. Внутри — `context: fork` + `agent: deep-ppc`, то есть задача уходит субагенту и результат возвращается в текущую сессию.
 
 Разница в формате: Claude требует `name` + `description` и понимает только именованные цвета (`red`, `purple`, `yellow`, `cyan`); OpenCode берёт имя из файла и понимает hex. Поэтому два набора файлов, тело одно и то же.
 
@@ -53,7 +56,8 @@ pwsh -NoProfile -File tools\skillhub.ps1 add amazon-creative-studio amazon-seo-l
 |---|---|
 | Сессия сразу в агенте | `claude --agent deep-ppc` |
 | Разовый запрос | `claude --agent deep-seo -p "проверь GTIN в этой папке"` |
-| Проверка файлов | `claude plugin validate ~/.claude/agents` |
+| Слэш-команда из сессии | `/deep-ppc разбери search term report` |
+| Проверка файлов | `claude plugin validate ~/.claude/agents` и `~/.claude/commands` |
 | Делегирование из обычной сессии | попросить: «через `deep-creative` собери бриф на карусель» |
 | Без установки, разово | `claude --agents '<json>'` (определение только на сессию) |
 
