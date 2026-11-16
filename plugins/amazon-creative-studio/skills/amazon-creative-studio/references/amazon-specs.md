@@ -47,7 +47,15 @@ Source: Amazon Seller Central Help, Product image requirements, reference G20049
 
 ## 2. PDP listing video
 
-`VERIFY_IN_UI` for the exact current listing-video uploader, category, marketplace, and account. Do not copy Sponsored Brands Video specs into listing video by assumption.
+Verified 2026-11-16 from the Shoppable video guide (Seller Central, GUZBYWTTVULY6C9Y). Full matrix across placements: `video-specs.md`.
+
+- Format: **MOV or MP4**; max **5 GB**; resolution **up to 1080p**.
+- Aspect: **16:9 horizontal or 9:16 vertical**; duration **1–12 minutes**.
+- Thumbnail: JPEG/PNG/GIF/BMP, under 5 MB.
+- Account must be active >3 months, ASINs created; each video tied to at least one ASIN.
+- AI disclosure: photorealistic AI-generated people require `contains-synthetic-performer` in XMP `dc:subject`.
+
+`VERIFY_IN_UI` for the uploader path, category eligibility and marketplace availability. Do not copy Sponsored Brands Video specs into listing video by assumption.
 
 ## 3. 3D product models / AR
 
@@ -108,11 +116,18 @@ For comparison tables with micro images:
 
 Premium supports richer media including multiple videos, hotspot modules, enhanced comparison charts, larger images, carousel/navigation modules, and Q&A where eligible.
 
-Exact image/video boxes: `VERIFY_IN_UI` per selected module.
+Verified video modules (Premium A+ Module Guide, v1.0, fetched 2026-11-16; full detail in `video-specs.md`):
+
+| Module | Minimum video | Max size | Max length | Preview image |
+|---|---|---|---|---|
+| Premium full video | 960×540, .mp4 only | 200 MB | 180 s | 1464×600 |
+| Premium video with text | 800×600 | 200 MB | 180 s | 800×600 |
+
+Amazon's own guidance: the ideal length is about 10 seconds; 180 s is a ceiling, not a target. Other image/video boxes: `VERIFY_IN_UI` per selected module.
 
 ## 5. A+ Brand Story
 
-Amazon describes Brand Story as a separate A+ type appearing in the "From the brand" area. It supports one module with up to 19 preformatted cards in a carousel format, full-screen backgrounds, image/text cards, and links to products/Brand Stores.
+Amazon describes Brand Story as a separate A+ type appearing in the "From the brand" area. It supports one module with up to 19 preformatted cards in a carousel format, full-screen backgrounds, image/text cards, and links to products/Brand Stores. No video module is documented for Brand Story: `VERIFY_IN_UI` before planning one.
 
 Project spec supplied by the user (`USER_SUPPLIED`, 2026-10-11, treated as `AMAZON_REQUIRED` for this project): file size <= 2 MB; background (main section backdrop) **1464 x 625 px** (`brand-story-bg`); brand card / focus image **362 x 453 px**, vertical (`brand-story-card`). Sources cited by the user: Seller Central help GLG4RQK2Y2RJADU4 and a third-party spec blog; if the account's builder shows other boxes, the builder wins.
 
@@ -199,6 +214,8 @@ Amazon discourages embedded text in Store images when native text can be used, b
 - Minimum image: 1500 x 750 px.
 - Up to 8 images in the gallery section.
 
+Page limits (fetched 2026-11-16): up to 20 sections per page, of which a maximum of 4 background video tiles. Video tile file-size ceiling is not published on the spec page: `VERIFY_IN_UI` in Store Builder. Full video matrix: `video-specs.md`.
+
 Source: Amazon Ads, Stores creative guidelines / ad specs.
 
 ## 7. Sponsored Brands Video
@@ -219,7 +236,14 @@ Official Amazon Ads requirements:
 - audio bitrate: minimum 96 kbps;
 - audio sample rate: minimum 44.1 kHz.
 
-Source: Amazon Ads, Sponsored Brands video ad specs.
+Creative constraints (verified 2026-11-16):
+
+- starts muted; mute toggle sits lower-right, so keep text and key information out of the lower-right corner;
+- no letterboxing or pillarboxing (no black, coloured or blurred bars);
+- on-screen language must match the marketplace;
+- brand name and logo belong on the end card, not the first second.
+
+Source: Amazon Ads, Sponsored Brands video ad specs. Full matrix: `video-specs.md`.
 
 ## 8. Display / responsive eCommerce advertising
 
