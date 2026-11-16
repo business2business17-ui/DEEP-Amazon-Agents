@@ -1,4 +1,4 @@
-# Agents
+# DEEP-Amazon-Agents
 
 Четыре автономных агента (по одной ветке на агента: `AMZ-DESIGN`, `SEO-Listings`, `PPC`, `Feeds`; в `main` все четыре) для работы с Amazon. Подключаются плагинами в Claude Code (локально в терминале) или загружаются в ChatGPT, Gemini, Claude.ai, Codex, Cursor.
 
